@@ -14,16 +14,11 @@
 
 ### 👩🏻‍💻 Technologies & Tools
 
-**Data Analytics & Programming**
-
 <p>
   <img alt="MySQL" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   <img alt="Python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
   <img alt="Pandas" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
 </p>
-
-**Business Intelligence & Data Visualization**
-
 <p>
   <img alt="Power BI" width="60" src="https://img.icons8.com/color/96/power-bi.png"/>
 
@@ -80,4 +75,3 @@ Previous experience in Business Development across:
 
 ---
 
-**Always learning, exploring data and developing new analytical skills.**
