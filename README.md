@@ -14,8 +14,6 @@
 
 ### 👩🏻‍💻 Technologies & Tools
 
-### 👩🏻‍💻 Technologies & Tools
-
 **Data Analytics & Programming**
 
 <p>
@@ -28,13 +26,7 @@
 
 <p>
   <img alt="Power BI" width="60" src="https://img.icons8.com/color/96/power-bi.png"/>
-  <img alt="Excel" width="60" src="https://cdn.simpleicons.org/microsoftexcel/217346"/>
-</p>
 
-**Databases & Tools**
-
-- MySQL Workbench
-- phpMyAdmin
 
 ---
 
