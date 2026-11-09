@@ -14,24 +14,26 @@
 
 ### 👩🏻‍💻 Technologies & Tools
 
+### 👩🏻‍💻 Technologies & Tools
+
 **Data Analytics & Programming**
 
-\<p>
-&#x20; \<img alt="MySQL" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)"/>
-&#x20; \<img alt="Python" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)"/>
-&#x20; \<img alt="Pandas" width="60" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg)"/>
-\</p>
+<p>
+  <img alt="MySQL" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+  <img alt="Python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img alt="Pandas" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+</p>
 
 **Business Intelligence & Data Visualization**
 
-\<p>
-&#x20; \<img alt="Power BI" width="60" src="[https://img.icons8.com/color/96/power-bi.png](https://img.icons8.com/color/96/power-bi.png)"/>
-&#x20; \<img alt="Excel" width="60" src="YOUR_EXCEL_ICON_URL"/>
-\</p>
+<p>
+  <img alt="Power BI" width="60" src="https://img.icons8.com/color/96/power-bi.png"/>
+  <img alt="Excel" width="60" src="https://cdn.simpleicons.org/microsoftexcel/217346"/>
+</p>
 
 **Databases & Tools**
 
-- MySQLWorkbench
+- MySQL Workbench
 - phpMyAdmin
 
 ---
